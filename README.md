@@ -1,5 +1,4 @@
 # DB
-cf
 ```bash
-bash <(curl -sSL https://raw.githubusercontent.com/arivpnstores/db/main/cf-buyer)
+wget -O /usr/cf-buyer https://raw.githubusercontent.com/arivpnstores/izin/main/cf-buyer && chmod +x /usr/cf-buyer && ./usr/cf-buyer
 ```
